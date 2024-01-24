@@ -10,7 +10,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone https://github.com/YoucefHmd/TIC-TAC-TOE-GAME.git
+$ git clone https://github.com/adhamali74/tic-tac-toe--react.Js
 
 # Go into the repository
 $ cd TIC-TAC-TOE-GAME
